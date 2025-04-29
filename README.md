@@ -35,3 +35,18 @@ HTML/CSS
 ✅Visualização de produtos  
 ✅Adição de produtos à base de dados  
 ✅Interface de loja com imagens  
+
+📦 Instalação
+Clone o repositório:
+
+```bash
+
+git clone https://github.com/a14481-oficina/Inventario-Produtos.git
+```
+1. Importe o ficheiro inventario_produtos.sql numa base de dados MySQL.
+
+2. Configure o ficheiro conn.php com os dados da sua base de dados.
+
+3. Coloque os ficheiros num servidor com suporte a PHP (ex: XAMPP, WAMP).
+
+4. Aceda ao sistema via navegador através do login.php.
